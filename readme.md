@@ -2,6 +2,10 @@
 
 This repo is an attempt to open-source my teletext decoder.
 
+It was originally designed, tested, and even a few were sold by me in 2019.
+
+You can see the [original product page for it on my website](https://www.nathanmediaservices.co.uk/invision/).
+
 You are now free to do whatever you like with this design and the firmware for it.
 
 Disclaimer: the design and firmwares are offered completely as-is, with no warranty of any kind. I will no longer be offering support or assistance on this project, if you want to build one you must figure it out from the resources provided here. 
