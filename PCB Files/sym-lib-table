@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Teletext-In-Vision-Decoder-rescue")(type "Legacy")(uri "${KIPRJMOD}/Teletext In-Vision Decoder-rescue.lib")(options "")(descr ""))
+)
