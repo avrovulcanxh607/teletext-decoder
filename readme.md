@@ -6,7 +6,7 @@ It was originally designed, tested, and even a few were sold by me in 2019.
 
 You can see the [original product page for it on my website](https://www.nathanmediaservices.co.uk/invision/).
 
-You are now free to do whatever you like with this design and the firmware for it.
+You are now free to do whatever you like with this design and the firmware for it - except selling it. You are **expressly forbidden** to use these designs to create a product that you then go on to resell, unless I have given you written permission otherwise.
 
 Disclaimer: the design and firmwares are offered completely as-is, with no warranty of any kind. I will no longer be offering support or assistance on this project, if you want to build one you must figure it out from the resources provided here. 
 
